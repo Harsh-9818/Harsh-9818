@@ -28,52 +28,79 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="52%" valign="top">
       <h3>Technical Skills</h3>
-      <p><b>Languages</b><br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="28" height="28"/>
-      </p>
-      <p><b>Frontend Development</b><br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="28" height="28"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="28" height="28"/>
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="28" height="28"/>
-        <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="28" height="28"/>
-      </p>
-      <p><b>Backend & Databases</b><br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="28" height="28"/>
-      </p>
-      <p><b>Cloud & Tools</b><br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="28" height="28"/>
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="28" height="28"/>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="28" height="28"/>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="28" height="28"/>
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/>
-      </p>
+      <table width="100%">
+        <tr>
+          <td width="25%" valign="top" align="center">
+            <b>Languages</b><br /><br />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /><br /><br />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /><br /><br />
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /><br /><br />
+            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /><br /><br />
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /><br /><br />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+          </td>
+          <td width="25%" valign="top" align="center">
+            <b>Frontend</b><br /><br />
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /><br /><br />
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" /><br /><br />
+            <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" /><br /><br />
+            <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" /><br /><br />
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" /><br /><br />
+            <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer" />
+          </td>
+          <td width="25%" valign="top" align="center">
+            <b>Backend & DB</b><br /><br />
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /><br /><br />
+            <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" /><br /><br />
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /><br /><br />
+            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br /><br />
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+          </td>
+          <td width="25%" valign="top" align="center">
+            <b>Cloud & Tools</b><br /><br />
+            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" /><br /><br />
+            <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" /><br /><br />
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /><br /><br />
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" /><br /><br />
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" /><br /><br />
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top" align="center">
-      <h3>GitHub Streak & Stats</h3>
-      <a href="https://github.com/harsh-9818">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-9818&theme=dark&hide_border=true" width="100%" alt="GitHub Streak Stats" />
-      </a>
+    <td width="48%" valign="top">
+      <h3>Experience & Projects</h3>
+      <b>◆ WORK EXPERIENCE</b>
       <br /><br />
-      <a href="https://github.com/harsh-9818">
-        <img src="https://github-readme-stats.vercel.app/api?username=harsh-9818&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-      </a>
+      <b>▸ Software Engineer</b> @ Tulip Compression Pvt. Ltd.<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;<i>2026 – Present</i>
+      <br /><br />
+      <b>▸ Fullstack Developer (Freelance)</b> @ Atelier<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;<i>2024 – 2026</i>
+      <br /><br />
+      <hr />
+      <b>◆ FEATURED PROJECTS</b>
+      <br /><br />
+      <b>▸ <a href="https://velforaclothing.vercel.app/">Velfora</a></b> — E-Commerce Platform<br />
+      <b>▸ <a href="https://enhancethroughai.vercel.app/">Enhance Through AI</a></b> — Generative AI Tool<br />
+      <b>▸ <a href="https://dev-atelier.vercel.app/">Atelier</a></b> — Web Application
     </td>
   </tr>
 </table>
+
+---
+
+### GitHub Streak
+
+<div align="center">
+
+<a href="https://github.com/harsh-9818">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-9818&theme=dark&hide_border=true" width="80%" alt="GitHub Streak Stats" />
+</a>
+
+</div>
 
 ---
 
@@ -84,15 +111,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-9818&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
-
----
-
-### Featured Projects
-
-| Project | Tech Stack | Description | Link |
-| :--- | :--- | :--- | :---: |
-| **Personal Portfolio** | Next.js, React, Tailwind CSS | High-performance developer portfolio showcasing modern projects. | [Live Demo](https://harsh-tanwar.vercel.app/) |
-| **GenAI Applications** | MERN Stack, Python, GenAI | Web platforms featuring custom LLM and generative AI capabilities. | [Repository](https://github.com/harsh-9818) |
 
 ---
 
