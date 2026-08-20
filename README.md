@@ -20,9 +20,10 @@
 
 ### About Me
 
-- Currently building full-stack applications leveraging the MERN stack, Next.js, and Generative AI frameworks.
-- Focused on engineering clean, scalable code architectures and modern REST/GraphQL web APIs.
-- Core technical competencies span React, Node.js, Next.js, and generative backend integrations.
+- Software Engineer with real-world experience building and maintaining production-ready applications.
+- Work with Generative AI and LLMs to develop AI-powered applications and practical solutions.
+- Focused on writing clean, scalable, and maintainable code and solving real-world engineering problems.
+- Experienced with REST APIs, databases, authentication, cloud deployment, and modern frontend development.
 
 ---
 
