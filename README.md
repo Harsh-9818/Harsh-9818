@@ -102,20 +102,3 @@
 
 </div>
 
----
-
-### Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-9818&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=harsh-9818&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-
-</div>
