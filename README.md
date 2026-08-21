@@ -93,13 +93,6 @@
 
 ---
 
-### GitHub Streak
-
-<div align="center">
-
-<a href="https://github.com/harsh-9818">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-9818&theme=dark&hide_border=true" width="80%" alt="GitHub Streak Stats" />
-</a>
 
 </div>
 
