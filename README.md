@@ -5,7 +5,7 @@
 
 *Crafting scalable web applications, modern APIs, and AI-powered digital products.*
 
-[Portfolio](https://harsh-tanwar.vercel.app/) &nbsp;•&nbsp; [Email](mailto:harsh.tanwar9818@gmail.com) &nbsp;•&nbsp; [Resume](https://drive.google.com/file/d/1kz5ammuvsJKr0eNCnoVczYIAX8n4e0ym/view?pli=1) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/harshtanwar)
+[Portfolio](https://iamnotharsh.vercel.app/) &nbsp;•&nbsp; [Email](mailto:harsh.tanwar9818@gmail.com) &nbsp;•&nbsp; [Resume](https://drive.google.com/file/d/1kz5ammuvsJKr0eNCnoVczYIAX8n4e0ym/view?pli=1) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/harshtanwar)
 
 <br />
 
